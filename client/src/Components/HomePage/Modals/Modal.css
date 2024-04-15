@@ -1,0 +1,12 @@
+.modal-content{
+    background-color: #fff;
+    border-radius: 17px;
+    padding: 10px;
+}
+
+.form-modal{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+}

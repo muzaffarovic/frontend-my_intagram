@@ -1,0 +1,11 @@
+.menu-btn{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+}
+.menu{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
