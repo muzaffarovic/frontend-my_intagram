@@ -1,5 +1,5 @@
 # Welcome To my project Instagram clone
-Demo: [Instagram Clone](https://starlit-kulfi-1a8a0b.netlify.app/auth/register)
+Demo: [Instagram Clone](https://stunning-druid-0bddde.netlify.app/auth/register)
 
 (Please wait a little while registering until the service API works.)
 Test  account to log in:
